@@ -56,7 +56,6 @@ The system integrates multiple roles such as customers, admins, and support agen
 ---
 
 
----
 
 ## 🗃️ Database Design
 
@@ -65,6 +64,11 @@ Includes:
 * ER Diagram
 * Relational Schema
 * SQL Scripts
+
+
+<img width="1634" height="2301" alt="ER223" src="https://github.com/user-attachments/assets/8db27408-7094-4e0d-af23-af3f888d972e" />
+
+
 
 ### Main Tables
 
@@ -83,8 +87,6 @@ Includes:
 
 ---
 
-
----
 
 ## 🔐 Security
 
@@ -113,6 +115,7 @@ Includes:
 
 ---
 
+
 ## 📚 Module
 
 **Information Systems and Data Modeling (IT1090)**
@@ -124,5 +127,5 @@ SLIIT – Sri Lanka Institute of Information Technology
 
 This project is for academic purposes only.
 
----
+
 
