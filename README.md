@@ -55,21 +55,6 @@ The system integrates multiple roles such as customers, admins, and support agen
 
 ---
 
-## 🏗️ Technologies Used
-
-### Frontend
-
-* HTML
-* CSS
-* JavaScript
-
-### Backend
-
-* Java (REST API)
-
-### Database
-
-* MySQL
 
 ---
 
@@ -98,32 +83,6 @@ Includes:
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1. Clone Repository
-
-```bash
-git clone https://github.com/your-username/luxury-motor-support-system.git
-cd luxury-motor-support-system
-```
-
-### 2. Setup Database
-
-* Open MySQL Workbench
-* Run SQL scripts
-* Create tables and insert data
-
-### 3. Run Backend
-
-* Import project into Eclipse
-* Configure Apache Tomcat
-* Deploy project
-
-### 4. Run Application
-
-```
-http://localhost:8080/
-```
 
 ---
 
@@ -167,12 +126,3 @@ This project is for academic purposes only.
 
 ---
 
-## ⭐ Support
-
-If you like this project:
-
-* Star ⭐ the repository
-* Fork 🍴 the project
-* Contribute improvements 🚀
-
----
